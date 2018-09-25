@@ -1,3 +1,8 @@
 How to get my contributions to a repository shown?
 
-
+Here is one way:
+register in Github with a valid email address
+verify that email address
+git config --global user.email <that-email-address>
+...
+git push ...
