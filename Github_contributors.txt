@@ -6,3 +6,6 @@ verify that email address
 git config --global user.email <that-email-address>
 ...
 git push ...
+
+ssh private key is not used to identify the contributor?
+only email address?
